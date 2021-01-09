@@ -1,0 +1,11 @@
+{
+	"archivo": "Leyendo un JSON",
+	"comment": "Archivo *.json de ejemplo para pruebas en programación.",
+	"author": "Andrés Segura",
+
+    "propiedades" : {
+      "nombre" : "Andrés Segura",
+      "nickname" : "And7rst",
+      "anio_inicio" : 2020
+    }
+}
